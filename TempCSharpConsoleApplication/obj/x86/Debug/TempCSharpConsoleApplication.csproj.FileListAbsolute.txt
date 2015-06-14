@@ -1,0 +1,5 @@
+C:\Development\TempCSharpConsoleApplication\TempCSharpConsoleApplication\bin\Debug\TempCSharpConsoleApplication.exe
+C:\Development\TempCSharpConsoleApplication\TempCSharpConsoleApplication\bin\Debug\TempCSharpConsoleApplication.pdb
+C:\Development\TempCSharpConsoleApplication\TempCSharpConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\TempCSharpConsoleApplication\TempCSharpConsoleApplication\obj\x86\Debug\TempCSharpConsoleApplication.exe
+C:\Development\TempCSharpConsoleApplication\TempCSharpConsoleApplication\obj\x86\Debug\TempCSharpConsoleApplication.pdb
